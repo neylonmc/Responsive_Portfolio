@@ -1,10 +1,12 @@
 .content {
-    background-color: #7FCDCD;
-    margin: 25px;
-    padding: 25px;
+    background-color: #ccd1d1;
+    margin: 10px;
+    padding: 10px;
 }
 
 img {
-    height: 350px;
-    width: 320px;
+    width: 220px;
+    height: 250px;
+    float: left;
+    margin: 10px;
 }
