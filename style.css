@@ -1,10 +1,12 @@
 body {
     background-image: url("https://assets.awwwards.com/awards/images/2015/04/pattern.jpg");
 }
-.content {
+.content,
+.Contact-Info {
     background-color:white;
     margin: 10px;
     padding: 10px;
+    width: 55%;
 }
 
 img {
@@ -16,8 +18,4 @@ img {
 
 .card-header {
     color: #7FCDCD
-}
-
-.Contact-Info {
-    background-color: white;
 }
