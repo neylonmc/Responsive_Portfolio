@@ -6,4 +6,6 @@ h2 {
 
 .img-fluid {
     margin: 10px;
+    width: 350px;
+    height: 350px;
 }
